@@ -1,0 +1,12 @@
+Admin Credentials
+
+email:admin@admin.com
+password:admin123
+
+
+Patient
+
+Patient@patient.com
+123
+
+
