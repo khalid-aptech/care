@@ -130,7 +130,7 @@ ob_start();
                             $_SESSION["id"] = $id;
                             $_SESSION["role"] = $role;
                             $_SESSION["name"] = $row["NAME"];
-                            $_SESSION["image"] = $role["IMAGE"];
+                            $_SESSION["image"] = $image;
                        
 
                             header("location:doctor.php");
